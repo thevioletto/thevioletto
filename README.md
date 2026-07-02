@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat" width="40" height="40" /> Manju Madhav
 
-### Full-Stack Developer • Computer Science & Design Student
+### Full-Stack Developer
 
 Hey 👋
 
