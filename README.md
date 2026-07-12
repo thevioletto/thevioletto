@@ -2,15 +2,15 @@
 
 ### Full-Stack Developer
 
-Hey 👋
+Hi 👋
 
-I'm Manju, a developer from Karnataka who enjoys building things that are both useful and fun to work on.
+I'm Manju from Karnataka, India.
 
-Most of my time goes into building full-stack web applications with **TypeScript, Next.js, PostgreSQL**, and occasionally diving into weird problems involving real-time collaboration, databases, and AI.
+Currently building web applications with **TypeScript**, **Next.js**, **PostgreSQL**, and learning more about backend systems.
 
-Currently working as a **Full-Stack Developer Intern @ RankBook**, where I'm helping build internal tools, analytics systems, and multi-tenant applications.
+Full-Stack Developer Intern @ RankBook
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -21,43 +21,33 @@ Currently working as a **Full-Stack Developer Intern @ RankBook**, where I'm hel
 | **Cloud & DevOps** | [![Cloud](https://skillicons.dev/icons?i=aws,docker,git,vercel)](https://skillicons.dev) |
 | **Design & Tools** | [![Tools](https://skillicons.dev/icons?i=figma,vite)](https://skillicons.dev) |
 
-## 🚀 Things I've Built
+## Things I've Built
 
 | Project | Description & Key Features | Link |
 | :--- | :--- | :--- |
-| **Syncova** | **AI-powered project coordination platform.**<br>• Smart workload distribution using the Hungarian Algorithm<br>• Multi-tenant architecture with PostgreSQL + RLS<br>• Real-time task tracking and dependency management | [🔗 Live Demo](https://syncova.vercel.app) |
-| **GitDoxx** | **Real-time collaborative document platform.**<br>• Y.js + WebRTC powered collaboration<br>• Voice typing using Whisper<br>• AI-assisted document comparison and summaries | [🔗 Live Demo](https://gitdoxx.vercel.app) |
+| **Syncova** | Project management platform with workload balancing, PostgreSQL RLS, and real-time collaboration. | [🔗 Live Demo](https://syncova.vercel.app) |
+| **GitDoxx** | Collaborative document editor built with Y.js, WebRTC, and AI-assisted document review. | [🔗 Live Demo](https://gitdoxx.vercel.app) |
 
+👉 More projects: https://manjumadhav.vercel.app
 
-## 💼 Experience
+## Experience
 
 ### Full-Stack Developer Intern @ RankBook
 
-* Built and deployed an LMS Analytics Dashboard
-* Designed a shared multi-tenant PostgreSQL architecture
-* Worked on CRM and E-Library systems
-* Built production features used across multiple company products
+* Multi-tenant PostgreSQL architecture
+* LMS Analytics Dashboard
+* CRM & E-Library systems
+* Production web applications
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Most Used Languages](https://github-readme-stats-ashen-one-20.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=compact&theme=github_dark&exclude_repo=machine-learning,internship-report,project-report) ![GitHub Stats](https://github-readme-stats-ashen-one-20.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=github_dark&include_all_commits=true&hide=commits&custom_title=GitHub%20Stats&text_bold=false) ![GitHub Streak](https://github-readme-streak-stats-lime-psi.vercel.app?user=violetto-rose&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=770)
 
-## 🌱 Currently Exploring
-
-* Distributed Systems
-* Database Design & Query Optimization
-* Real-Time Collaboration Software
-* AI-Powered Developer Tools
-* System Design
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/manjumadhav-va)
+## Contact
 
 * 📧 Email: [manjumadhav.va@gmail.com](mailto:manjumadhav.va@gmail.com)
 * 🌐 Portfolio: https://manjumadhav.vercel.app
+* 💼 LinkedIn: [Click here](https://linkedin.com/in/manjumadhav-va)
 * 📄 Resume: [View PDF](https://github.com/violetto-rose/violetto-rose/blob/main/resources/Resume.pdf)
 
-If you've got an interesting project, startup idea, or just want to talk tech, feel free to reach out :)
-
-[![Manju Madhav V A profile views](https://u8views.com/api/v1/github/profiles/128056505/views/day-week-month-total-count.svg)](https://u8views.com/github/violetto-rose)
+[![Profile views](https://u8views.com/api/v1/github/profiles/128056505/views/day-week-month-total-count.svg)](https://u8views.com/github/violetto-rose)
