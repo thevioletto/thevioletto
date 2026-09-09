@@ -25,8 +25,9 @@ Full-Stack Developer Intern @ RankBook
 
 | Project | Description & Key Features | Link |
 | :--- | :--- | :--- |
-| **Syncova** | Project management platform with workload balancing, PostgreSQL RLS, and real-time collaboration. | [🔗 Live Demo](https://syncova.vercel.app) |
-| **GitDoxx** | Collaborative document editor built with Y.js, WebRTC, and AI-assisted document review. | [🔗 Live Demo](https://gitdoxx.vercel.app) |
+| **Evergarden Font Manager** | Lightweight desktop app built with Tauri v2 and Rust for instant, local-first management of large font libraries. Features direct binary parsing, deep OpenType table inspection, and an interactive font pairing studio. | [Link to website](https://evergarden-font-manager.vercel.app/) |
+| **GitDoxx** | Real-time collaborative text editor combining BlockNote and Yjs CRDTs with a hybrid persistence model: live state in Firestore, compressed delta snapshots in AWS S3, and automated GROQ AI diff analysis. | [Link to website](https://gitdoxx.vercel.app) |
+| **Syncova** | AI-assisted project management platform featuring company-scoped PostgreSQL Row-Level Security (RLS), real-time task status triggers, automated skill-based candidate scoring, and visual workload balancing. | [Link to website](https://linkedin.com/in/manjumadhav-va) |
 
 👉 More projects: https://manjumadhav.vercel.app
 
@@ -35,9 +36,8 @@ Full-Stack Developer Intern @ RankBook
 ### Full-Stack Developer Intern @ RankBook
 
 * Multi-tenant PostgreSQL architecture
-* LMS Analytics Dashboard
-* CRM & E-Library systems
-* Production web applications
+* E-Commerce, LMS, Analytics Dashboards, CRM & E-Library systems
+* Production web and mobile applications
 
 ## GitHub Stats
 
