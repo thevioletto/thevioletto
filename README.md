@@ -6,8 +6,6 @@ Building web applications with TypeScript, Next.js, PostgreSQL, and backend syst
 
 Full-Stack Developer @ RankBook
 
----
-
 ## Tech Stack
 
 <table>
