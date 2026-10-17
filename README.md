@@ -41,7 +41,7 @@ Full-Stack Developer @ RankBook
 
 ## GitHub Stats
 
-![Most Used Languages](https://github-readme-stats-ashen-one-20.vercel.app/api/top-langs?username=thevioletto&show_icons=true&locale=en&layout=compact&theme=github_dark&exclude_repo=machine-learning,internship-report,project-report) ![GitHub Stats](https://github-readme-stats-ashen-one-20.vercel.app/api?username=thevioletto&show_icons=true&locale=en&theme=github_dark&include_all_commits=true&hide=commits&custom_title=GitHub%20Stats&text_bold=false) ![GitHub Streak](https://github-readme-streak-stats-lime-psi.vercel.app?user=thevioletto&theme=github-dark-blue&hide_border=true&timezone=IST&mode=weekly&card_width=770)
+![Most Used Languages](https://github-readme-stats-ashen-one-20.vercel.app/api/top-langs?username=thevioletto&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark&exclude_repo=machine-learning,internship-report,project-report) ![GitHub Stats](https://github-readme-stats-ashen-one-20.vercel.app/api?username=thevioletto&show_icons=true&locale=en&hide_border=true&theme=github_dark&include_all_commits=true&hide=commits&custom_title=GitHub%20Stats&text_bold=false) ![GitHub Streak](https://github-readme-streak-stats-lime-psi.vercel.app?user=thevioletto&theme=github-dark-blue&hide_border=true&timezone=IST&mode=weekly&card_width=770)
 
 ## Contact
 
