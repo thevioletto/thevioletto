@@ -8,7 +8,7 @@ I'm Manju from Karnataka, India.
 
 Currently building web applications with **TypeScript**, **Next.js**, **PostgreSQL**, and learning more about backend systems.
 
-Full-Stack Developer Intern @ RankBook
+Full-Stack Developer @ RankBook
 
 ## Tech Stack
 
