@@ -4,7 +4,7 @@
 
 Building web applications with TypeScript, Next.js, PostgreSQL, and backend systems.
 
-Full-Stack Developer @ RankBook
+Jr. Full-Stack Developer @ RankBook
 
 ## Tech Stack
 
@@ -56,10 +56,10 @@ Full-Stack Developer @ RankBook
 
 ## Experience
 
-**Full-Stack Developer Intern · RankBook**
+**Jr. Full-Stack Developer · RankBook**
 
 - Multi-tenant PostgreSQL architecture
-- E-commerce, LMS, CRM, analytics, and e-library systems
+- E-commerce, LMS, CRM, HRMS, analytics, and e-library systems
 - Production web and mobile applications
 
 ## GitHub
